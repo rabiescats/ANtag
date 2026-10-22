@@ -78,7 +78,7 @@
         $.holdReady(false);
     });
 
-    const IMAGE_REPO = "https://puppiizsunniiz.github.io/Arknight-Images"
+    const IMAGE_REPO = "https://raw.githubusercontent.com/rabiescats/ANtagI/main"
     const SPINE_REPO = "https://puppiizsunniiz.github.io/Arknights-Spines"
 
     var lang;

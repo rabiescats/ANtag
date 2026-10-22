@@ -700,7 +700,7 @@ function calculate(){
                         'style': buttonstyle,
                         'height': size,
                         'width': size,
-                        'src': "https://raw.githubusercontent.com/PuppiizSunniiz/Arknight-Images/main/avatars/" + char.id + ".png"
+                        'src': "https://raw.githubusercontent.com/rabiescats/ANtagI/main/avatars/" + char.id + ".png"
                     });
                 }
                 if (showName) {
